@@ -1,0 +1,30 @@
+在window上运行ios环境
+http://www.cnblogs.com/gdsblog/p/8537594.html
+expo
+npm install -g expo-cli;
+expo init
+
+
+
+flex布局
+cssreference.parryqiu.com/flexbox
+
+RN的整理
+rn.parryqiu.com
+
+重启
+react native start;
+
+
+
+
+
+npm install -g react-native-cli
+react-native init Rn
+
+
+react-native自动补全
+https://github.com/virtoolswebplayer/ReactNative-LiveTemplate
+
+java环境变量
+https://www.cnblogs.com/smyhvae/p/3788534.html
